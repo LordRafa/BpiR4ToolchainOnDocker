@@ -20,6 +20,6 @@ Enjoy it!!!
 
 # Useful links
 
-https://hub.docker.com/r/lordrafa/bpi-r4-toolchain
-https://git01.mediatek.com/plugins/gitiles/openwrt/feeds/mtk-openwrt-feeds
-https://openwrt.org/
+* https://hub.docker.com/r/lordrafa/bpi-r4-toolchain
+* https://git01.mediatek.com/plugins/gitiles/openwrt/feeds/mtk-openwrt-feeds
+* https://openwrt.org/
