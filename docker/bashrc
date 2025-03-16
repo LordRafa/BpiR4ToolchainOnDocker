@@ -7,3 +7,4 @@ alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
 alias ..="cd .."
 source /etc/profile.d/bash_completion.sh
+alias mtk-autobuild=~/mtk-openwrt-feeds/autobuild/unified/autobuild.sh
