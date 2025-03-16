@@ -2,7 +2,7 @@
 Name=BpiR4Toolchain On Docker
 Comment=Toolchain to compile Openwrt for Banana Pi R4
 Exec=bpi-r4-toolchain-onDocker.sh
-Terminal=false
+Terminal=true
 Type=Application
 Icon=bpi-r4-toolchain-onDocker
 Categories=Development;
