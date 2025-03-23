@@ -12,7 +12,7 @@ ENV DEBIAN_FRONTEND="noninteractive"
 
 # Installing Dependencies
 RUN apt-get update && apt-get upgrade -y
-RUN apt-get install -y bash-completion build-essential clang flex bison g++ gawk gcc-multilib g++-multilib gettext git libncurses5-dev libssl-dev python3-setuptools rsync swig unzip zlib1g-dev file wget asciidoc binutils gcc intltool make patch perl python3-dev
+RUN apt-get install -y bash-completion build-essential clang flex bison g++ gawk gcc-multilib g++-multilib gettext git libncurses5-dev libssl-dev python3-setuptools rsync swig unzip zlib1g-dev file wget asciidoc binutils gcc intltool make patch perl python3-dev vim curl
 
 # Setting up the user
 VOLUME "$APP_HOME"
